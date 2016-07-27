@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/primaryScriptSources/2",
+    "value": "/scripts/CorpseCompass.lua"
+  }
+]

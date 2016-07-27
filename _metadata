@@ -1,0 +1,7 @@
+{
+  "version" : "0.1",
+  "friendlyName" : "Corpse Compass",
+  "name" : "Corpse Compass",
+  "description" : "Helps guide you back to where you died to recover your things that were dropped.",
+  "author" : "John Kelley"
+}
